@@ -1,0 +1,220 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "like": 4990,
+      "total_view": 488,
+      "chef_picture": "https://cdn.discordapp.com/attachments/1094651413235253289/1102864230274826270/Promo-Facebook-Facebook_right_column.jpeg",
+      "name": "Edward Kwon",
+      "exp" : 8,
+      "num_rec" : 5,
+      "bio" : "Chef Edward is a well-known Korean celebrity chef and TV personality. He has worked in some of the world's best kitchens, including the Ritz Carlton, Four Seasons, and Burj Al Arab.",
+      "recipe_info" : [
+        {
+          "rec_id" : "887",
+          "recipe_name" : "Korean Fried Chicken",
+          "ingredients" : "1 pound chicken wings, 1 cup all-purpose flour, 1/2 cup cornstarch, 1/2 cup buttermilk, 1 tablespoon soy sauce",
+          "cooking_method" : "In a bowl, mix together flour, cornstarch, garlic powder, onion powder, salt, and pepper.In another bowl, mix together buttermilk and soy sauce.Dip chicken wings into the buttermilk mixture, then into the flour mixture, shaking off any excess flour.Heat vegetable oil in a deep-fryer or large pot to 350°F (180°C).Fry the chicken wings in batches for about 10 minutes, until golden brown and cooked through.Drain the chicken wings on a paper towel-lined plate.Serve hot with Korean chili sauce, if desired.Soy Sauce Braised Short Ribs",
+          "rating" : 4.5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102623982911504454/190130-korean-fried-chicken-horizontal-041-1549304734.png"
+        },
+        {
+          "rec_id" : "665",
+          "recipe_name" : "Tuna Tataki Salad",
+          "ingredients" : "8 oz tuna steak, 2 tablespoons sesame seeds, 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon rice vinegar",
+          "cooking_method" : "Season the tuna steak with salt and pepper.Coat the tuna steak with sesame seeds, pressing lightly to make sure they stick.Heat a pan over high heat and add a bit of oil. Sear the tuna steak for about 30 seconds on each side.In a bowl, whisk together soy sauce, honey, rice vinegar, and sesame oil.In another bowl, mix together mixed greens, cherry tomatoes, cucumber slices, and avocado slices.Slice the tuna steak and arrange it on top of the salad. Drizzle the dressing over the salad and serve.Beef Bulgogi",
+          "rating" : 5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102624395786190858/EG5_EP77_Tuna-Tataki-Salad_67645e919b12432e590b303456de6e74.jpg"
+        },
+        {
+          "rec_id" : "866",
+          "recipe_name" : "Spicy Pork Stir-Fry",
+          "ingredients" : "1 lb pork belly, thinly sliced, 2 tablespoons gochujang (Korean chili paste), 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon sesame oil",
+          "cooking_method" : "In a bowl, whisk together gochujang, soy sauce, honey, sesame oil, and garlic.Add the pork slices to the bowl and toss to coat.Heat a pan over high heat and add a bit of vegetable oil. Add the marinated pork and cook for 3-4 minutes until browned.Add the sliced onion and bell peppers to the pan and stir-fry for another 2-3 minutes until the vegetables are tender.Season with salt and pepper to taste.Garnish with chopped green onions and serve hot with rice.Steamed Fish with Ginger and Scallions",
+          "rating" : 5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102624413494546512/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab55",
+      "like": 1990,
+      "total_view": 448,
+      "chef_picture": "https://cdn.discordapp.com/attachments/1094651413235253289/1102865245183164487/Promo-Facebook-Facebook_right_column_1.jpeg",
+      "name": "Judy Joo",
+      "exp" : 7,
+      "num_rec" : 3,
+      "bio" : "Chef Judy is a Korean-American chef who has appeared on several cooking shows, including Iron Chef UK and Korean Food Made Simple. She is also the owner of the Jinjuu restaurant in London.",
+      "recipe_info" : [
+        {
+          "rec_id" : "334",
+          "recipe_name" : "Korean Fried Chicken Wings",
+          "ingredients" : "2 lbs chicken wings, 1 cup all-purpose flour, 2 tablespoons cornstarch, 1 teaspoon baking powder, 1 teaspoon salt",
+          "cooking_method" : "2 lbs chicken wings, 1 cup all-purpose flour, 2 tablespoons cornstarch, 1 teaspoon baking powder, 1 teaspoon saltIn a bowl, whisk together flour, cornstarch, baking powder, salt, black pepper, garlic powder, onion powder, and paprika.In another bowl, whisk together buttermilk and a bit of water.Dip the chicken wings in the buttermilk mixture, then dredge in the flour mixture to coat.Heat vegetable oil in a deep fryer or a pot to 350°F.Fry the chicken wings in batches for 8-10 minutes or until golden brown and crispy.In a separate pan, mix together gochujang, honey, soy sauce, rice vinegar, and sesame oil.Add the fried chicken wings to the pan and toss to coat with the glaze.Garnish with sesame seeds and serve hot.",
+          "rating" : 4.5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102628606573822064/Crispy-Korean-Fried-Chicken-Wings-4.jpg"
+        },
+        {
+          "rec_id" : "332",
+          "recipe_name" : "Kimchi Pancakes",
+          "ingredients" : "1 cup all-purpose flour, 1/2 cup rice flour, 1 egg, 1 1/2 cups cold water, 1 cup kimchi, chopped",
+          "cooking_method" : "In a bowl, whisk together all-purpose flour, rice flour, egg, and cold water. Add chopped kimchi, sliced scallions, minced garlic, and salt. Mix well. Heat vegetable oil in a pan over medium-high heat. Pour a ladleful of the batter into the pan and spread it into a thin pancake. Fry for 2-3 minutes on each side until golden brown. Repeat with the remaining batter. Cut the pancakes into wedges and serve hot with soy sauce for dipping. ",
+          "rating" : 5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102628812405100654/maxresdefault.jpg"
+        },
+        {
+          "rec_id" : "553",
+          "recipe_name" : "Korean Beef Bulgogi",
+          "ingredients" : "1 lb beef sirloin, thinly sliced, 1/2 cup soy sauce, 2 tablespoons sugar, 2 tablespoons sesame oil, 1 tablespoon rice vinegar",
+          "cooking_method" : "In a bowl, whisk together soy sauce, sugar, sesame oil, rice vinegar, minced garlic, and grated ginger. Add the beef slices to the bowl and toss to coat. Let marinate for at least 30 minutes. Heat a bit of vegetable oil in a pan over high heat. Add sliced onions and mushrooms to the pan and stir-fry for 2-3 minutes until the vegetables are tender. Add the marinated beef to the pan and stir-fry for 5",
+          "rating" : 5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102629321610379294/100606-beef-bulgogi-DDMFS-4x3-b59a31e8b94f4c7091e333847bf0c406.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab33",
+      "like": 12990,
+      "total_view": 488,
+      "chef_picture": "https://cdn.discordapp.com/attachments/1094651413235253289/1102866416106995782/Promo-Facebook-Facebook_right_column_2.jpeg",
+      "name": "Kang Ho-dong",
+      "exp" : 8,
+      "num_rec" : 5,
+      "bio" : "Chef Kang is a former professional wrestler and comedian who is now a popular Korean TV personality and restaurateur. He is the founder of the popular Korean barbecue chain Kang Ho Dong Baekjeong.",
+      "recipe_info" : [
+        {
+          "rec_id" : "764",
+          "recipe_name" : "Korean Fried Chicken",
+          "ingredients" : "1 pound chicken wings, 1 cup all-purpose flour, 1/2 cup cornstarch, 1/2 cup buttermilk, 1 tablespoon soy sauce",
+          "cooking_method" : "In a bowl, mix together flour, cornstarch, garlic powder, onion powder, salt, and pepper.In another bowl, mix together buttermilk and soy sauce.Dip chicken wings into the buttermilk mixture, then into the flour mixture, shaking off any excess flour.Heat vegetable oil in a deep-fryer or large pot to 350°F (180°C).Fry the chicken wings in batches for about 10 minutes, until golden brown and cooked through.Drain the chicken wings on a paper towel-lined plate.Serve hot with Korean chili sauce, if desired.Soy Sauce Braised Short Ribs",
+          "rating" : 4.5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102623982911504454/190130-korean-fried-chicken-horizontal-041-1549304734.png"
+        },
+        {
+          "rec_id" : "341",
+          "recipe_name" : "Tuna Tataki Salad",
+          "ingredients" : "8 oz tuna steak, 2 tablespoons sesame seeds, 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon rice vinegar",
+          "cooking_method" : "Season the tuna steak with salt and pepper.Coat the tuna steak with sesame seeds, pressing lightly to make sure they stick.Heat a pan over high heat and add a bit of oil. Sear the tuna steak for about 30 seconds on each side.In a bowl, whisk together soy sauce, honey, rice vinegar, and sesame oil.In another bowl, mix together mixed greens, cherry tomatoes, cucumber slices, and avocado slices.Slice the tuna steak and arrange it on top of the salad. Drizzle the dressing over the salad and serve.Beef Bulgogi",
+          "rating" : 5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102624395786190858/EG5_EP77_Tuna-Tataki-Salad_67645e919b12432e590b303456de6e74.jpg"
+        },
+        {
+          "rec_id" : "975",
+          "recipe_name" : "Spicy Pork Stir-Fry",
+          "ingredients" : "1 lb pork belly, thinly sliced, 2 tablespoons gochujang (Korean chili paste), 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon sesame oil",
+          "cooking_method" : "In a bowl, whisk together gochujang, soy sauce, honey, sesame oil, and garlic.Add the pork slices to the bowl and toss to coat.Heat a pan over high heat and add a bit of vegetable oil. Add the marinated pork and cook for 3-4 minutes until browned.Add the sliced onion and bell peppers to the pan and stir-fry for another 2-3 minutes until the vegetables are tender.Season with salt and pepper to taste.Garnish with chopped green onions and serve hot with rice.Steamed Fish with Ginger and Scallions",
+          "rating" : 5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102624413494546512/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab65",
+      "like": 14990,
+      "total_view": 488,
+      "chef_picture": "https://cdn.discordapp.com/attachments/1094651413235253289/1102867071974518824/Promo-Facebook-Facebook_right_column_3.jpeg",
+      "name": "Lee Yeon Bok ",
+      "exp" : 8,
+      "num_rec" : 5,
+      "bio" : "Chef Lee is a well-known Korean chef who has worked in several Michelin-starred restaurants in Europe. He is also a regular on Korean TV cooking shows.",
+      "recipe_info" : [
+        {
+          "rec_id" : "867",
+          "recipe_name" : "Korean Fried Chicken",
+          "ingredients" : "1 pound chicken wings, 1 cup all-purpose flour, 1/2 cup cornstarch, 1/2 cup buttermilk, 1 tablespoon soy sauce",
+          "cooking_method" : "In a bowl, mix together flour, cornstarch, garlic powder, onion powder, salt, and pepper.In another bowl, mix together buttermilk and soy sauce.Dip chicken wings into the buttermilk mixture, then into the flour mixture, shaking off any excess flour.Heat vegetable oil in a deep-fryer or large pot to 350°F (180°C).Fry the chicken wings in batches for about 10 minutes, until golden brown and cooked through.Drain the chicken wings on a paper towel-lined plate.Serve hot with Korean chili sauce, if desired.Soy Sauce Braised Short Ribs",
+          "rating" : 4.5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102623982911504454/190130-korean-fried-chicken-horizontal-041-1549304734.png"
+        },
+        {
+          "rec_id" : "967",
+          "recipe_name" : "Tuna Tataki Salad",
+          "ingredients" : "8 oz tuna steak, 2 tablespoons sesame seeds, 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon rice vinegar",
+          "cooking_method" : "Season the tuna steak with salt and pepper.Coat the tuna steak with sesame seeds, pressing lightly to make sure they stick.Heat a pan over high heat and add a bit of oil. Sear the tuna steak for about 30 seconds on each side.In a bowl, whisk together soy sauce, honey, rice vinegar, and sesame oil.In another bowl, mix together mixed greens, cherry tomatoes, cucumber slices, and avocado slices.Slice the tuna steak and arrange it on top of the salad. Drizzle the dressing over the salad and serve.Beef Bulgogi",
+          "rating" : 5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102624395786190858/EG5_EP77_Tuna-Tataki-Salad_67645e919b12432e590b303456de6e74.jpg"
+        },
+        {
+          "rec_id" : "567",
+          "recipe_name" : "Spicy Pork Stir-Fry",
+          "ingredients" : "1 lb pork belly, thinly sliced, 2 tablespoons gochujang (Korean chili paste), 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon sesame oil",
+          "cooking_method" : "In a bowl, whisk together gochujang, soy sauce, honey, sesame oil, and garlic.Add the pork slices to the bowl and toss to coat.Heat a pan over high heat and add a bit of vegetable oil. Add the marinated pork and cook for 3-4 minutes until browned.Add the sliced onion and bell peppers to the pan and stir-fry for another 2-3 minutes until the vegetables are tender.Season with salt and pepper to taste.Garnish with chopped green onions and serve hot with rice.Steamed Fish with Ginger and Scallions",
+          "rating" : 5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102624413494546512/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab53",
+      "like": 9990,
+      "total_view": 488,
+      "chef_picture": "https://cdn.discordapp.com/attachments/1094651413235253289/1102867771282423949/Promo-Facebook-Facebook_right_column_4.jpeg",
+      "name": "Yim Jung-sik",
+      "exp" : 8,
+      "num_rec" : 5,
+      "bio" : "Chef Yim is the owner of the Michelin-starred restaurant Jungsik in Seoul, which specializes in modern Korean cuisine.",
+      "recipe_info" : [
+        {
+          "rec_id" : "122",
+          "recipe_name" : "Korean Fried Chicken",
+          "ingredients" : "1 pound chicken wings, 1 cup all-purpose flour, 1/2 cup cornstarch, 1/2 cup buttermilk, 1 tablespoon soy sauce",
+          "cooking_method" : "In a bowl, mix together flour, cornstarch, garlic powder, onion powder, salt, and pepper.In another bowl, mix together buttermilk and soy sauce.Dip chicken wings into the buttermilk mixture, then into the flour mixture, shaking off any excess flour.Heat vegetable oil in a deep-fryer or large pot to 350°F (180°C).Fry the chicken wings in batches for about 10 minutes, until golden brown and cooked through.Drain the chicken wings on a paper towel-lined plate.Serve hot with Korean chili sauce, if desired.Soy Sauce Braised Short Ribs",
+          "rating" : 4.5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102623982911504454/190130-korean-fried-chicken-horizontal-041-1549304734.png"
+        },
+        {
+          "rec_id" : "432",
+          "recipe_name" : "Tuna Tataki Salad",
+          "ingredients" : "8 oz tuna steak, 2 tablespoons sesame seeds, 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon rice vinegar",
+          "cooking_method" : "Season the tuna steak with salt and pepper.Coat the tuna steak with sesame seeds, pressing lightly to make sure they stick.Heat a pan over high heat and add a bit of oil. Sear the tuna steak for about 30 seconds on each side.In a bowl, whisk together soy sauce, honey, rice vinegar, and sesame oil.In another bowl, mix together mixed greens, cherry tomatoes, cucumber slices, and avocado slices.Slice the tuna steak and arrange it on top of the salad. Drizzle the dressing over the salad and serve.Beef Bulgogi",
+          "rating" : 5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102624395786190858/EG5_EP77_Tuna-Tataki-Salad_67645e919b12432e590b303456de6e74.jpg"
+        },
+        {
+          "rec_id" : "675",
+          "recipe_name" : "Spicy Pork Stir-Fry",
+          "ingredients" : "1 lb pork belly, thinly sliced, 2 tablespoons gochujang (Korean chili paste), 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon sesame oil",
+          "cooking_method" : "In a bowl, whisk together gochujang, soy sauce, honey, sesame oil, and garlic.Add the pork slices to the bowl and toss to coat.Heat a pan over high heat and add a bit of vegetable oil. Add the marinated pork and cook for 3-4 minutes until browned.Add the sliced onion and bell peppers to the pan and stir-fry for another 2-3 minutes until the vegetables are tender.Season with salt and pepper to taste.Garnish with chopped green onions and serve hot with rice.Steamed Fish with Ginger and Scallions",
+          "rating" : 5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102624413494546512/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab73",
+      "like": 8290,
+      "total_view": 488,
+      "chef_picture": "https://cdn.discordapp.com/attachments/1094651413235253289/1102868456950468628/Promo-Facebook-Facebook_right_column_5.jpeg",
+      "name": "Park Seo-hwa",
+      "exp" : 8,
+      "num_rec" : 5,
+      "bio" : "A female Korean chef who specializes in traditional Korean cuisine. She has won several awards for her cooking and has her own restaurant in Seoul.",
+      "recipe_info" : [
+        {
+          "rec_id" : "345",
+          "recipe_name" : "Korean Fried Chicken",
+          "ingredients" : "1 pound chicken wings, 1 cup all-purpose flour, 1/2 cup cornstarch, 1/2 cup buttermilk, 1 tablespoon soy sauce",
+          "cooking_method" : "In a bowl, mix together flour, cornstarch, garlic powder, onion powder, salt, and pepper.In another bowl, mix together buttermilk and soy sauce.Dip chicken wings into the buttermilk mixture, then into the flour mixture, shaking off any excess flour.Heat vegetable oil in a deep-fryer or large pot to 350°F (180°C).Fry the chicken wings in batches for about 10 minutes, until golden brown and cooked through.Drain the chicken wings on a paper towel-lined plate.Serve hot with Korean chili sauce, if desired.Soy Sauce Braised Short Ribs",
+          "rating" : 4.5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102623982911504454/190130-korean-fried-chicken-horizontal-041-1549304734.png"
+        },
+        {
+          "rec_id" : "353",
+          "recipe_name" : "Tuna Tataki Salad",
+          "ingredients" : "8 oz tuna steak, 2 tablespoons sesame seeds, 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon rice vinegar",
+          "cooking_method" : "Season the tuna steak with salt and pepper.Coat the tuna steak with sesame seeds, pressing lightly to make sure they stick.Heat a pan over high heat and add a bit of oil. Sear the tuna steak for about 30 seconds on each side.In a bowl, whisk together soy sauce, honey, rice vinegar, and sesame oil.In another bowl, mix together mixed greens, cherry tomatoes, cucumber slices, and avocado slices.Slice the tuna steak and arrange it on top of the salad. Drizzle the dressing over the salad and serve.Beef Bulgogi",
+          "rating" : 5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102624395786190858/EG5_EP77_Tuna-Tataki-Salad_67645e919b12432e590b303456de6e74.jpg"
+        },
+        {
+          "rec_id" : "642",
+          "recipe_name" : "Spicy Pork Stir-Fry",
+          "ingredients" : "1 lb pork belly, thinly sliced, 2 tablespoons gochujang (Korean chili paste), 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon sesame oil",
+          "cooking_method" : "In a bowl, whisk together gochujang, soy sauce, honey, sesame oil, and garlic.Add the pork slices to the bowl and toss to coat.Heat a pan over high heat and add a bit of vegetable oil. Add the marinated pork and cook for 3-4 minutes until browned.Add the sliced onion and bell peppers to the pan and stir-fry for another 2-3 minutes until the vegetables are tender.Season with salt and pepper to taste.Garnish with chopped green onions and serve hot with rice.Steamed Fish with Ginger and Scallions",
+          "rating" : 5,
+          "img": "https://cdn.discordapp.com/attachments/1094651413235253289/1102624413494546512/maxresdefault.jpg"
+        }
+      ]
+    }
+    
+    
+  ]
